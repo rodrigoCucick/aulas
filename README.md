@@ -1,2 +1,4 @@
-# aulas
-Repositório de source code de aulas ministradas por mim.
+Estruturado da seguinte maneira:
+
+aulas/nome_da_aula/src/
+                       
