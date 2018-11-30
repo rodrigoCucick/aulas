@@ -4,6 +4,6 @@ aulas/nome_da_aula/src/
 </pre>
 Quando houver necessidade, haverá também uma pasta chamada "assets" dentro da pasta "nome_da_aula":
 <pre>
-aulas/nomedaaula/src/  
-          └─────/assets/            
+aulas/nomedaaula/src/
+          └─────/assets/
 </pre>
